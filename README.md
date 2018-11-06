@@ -5,8 +5,11 @@ CloneRPI
 Clone the raspberry pi image to another SD card  
 
 ### Introduction
-For the same size of SD card, "Backup & Restore" method are suggrested, it would be more effective.  
-For the different size of SD card "Clone" method are suggested, this method would much slower than "B&R" but it can resize for different size of SD card.
+For the **same size** of SD card, "Backup & Restore" method are suggrested, it would be more effective.
+  (please noted that different brand manufacturer real size of SD card is different, even they claim that is the same. SanDisk 16G != Samsung 16G)
+
+
+For the **different size** of SD card "Clone" method are suggested, this method would much slower than "B&R" but it can resize for different size of SD card.
 
 * * * * *
 
